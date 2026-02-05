@@ -182,6 +182,7 @@ The Postman collection shows:
 	•	RBAC enforcement
 
 ⸻
+<img width="1440" height="932" alt="Снимок экрана 2026-02-05 в 15 41 46" src="https://github.com/user-attachments/assets/e02dc209-7c60-4ed1-89c2-09d813e394bf" />
 
 Key Features Summary
 	•	 MVC architecture
@@ -197,3 +198,8 @@ Conclusion
 
 This project demonstrates a scalable and secure backend architecture following industry standards.
 It implements proper authentication, authorization, and clean separation of concerns using MVC, making it suitable for real-world hotel booking systems.
+
+<img width="1440" height="932" alt="Снимок экрана 2026-02-05 в 15 41 46" src="https://github.com/user-attachments/assets/062939a1-c7d0-4a32-b68e-96e5506fddb2" />
+<img width="1440" height="932" alt="Снимок экрана 2026-02-05 в 15 44 55" src="https://github.com/user-attachments/assets/4c44264a-6b30-48d2-b667-ca7f47a4ccdb" />
+<img width="1440" height="932" alt="Снимок экрана 2026-02-05 в 15 42 26" src="https://github.com/user-attachments/assets/4233c7c4-233b-40e5-a784-5947a99946fa" />
+<img width="1440" height="932" alt="Снимок экрана 2026-02-05 в 15 42 09" src="https://github.com/user-attachments/assets/89f2b856-515d-46a4-a19d-dd3ed5d9f32e" />
